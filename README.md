@@ -1,8 +1,6 @@
 #### Doprax一键四协议共存
 
-#### Xray内核，支持vless，vmess，trojan，shadowsocks四个配置同时在线！支持自定义伪装网站
-
-#### [Doprax后续自定义域名CDN自选IP等相关文字视频教程请点击](https://ygkkk.blogspot.com/2023/01/doprax-xray-v2ray-cdn.html)
+#### Xr内核，支持vl，vm，tr，sha四个配置同时在线！支持自定义伪装网站
 
 ------------------------
 
@@ -19,8 +17,4 @@
 #### 喜欢本项目请在右上角点个Star吧
 
 ---------------------------------------------------------------------------------------
-
-#### 鸣谢表：
-静态伪装站取自[mack-a](https://github.com/mack-a/v2ray-agent)，参考项目[hiifeng](https://github.com/hiifeng/V2ray-for-Doprax)、[fscarmen](https://github.com/fscarmen2/V2-for-Doprax)
-
 
